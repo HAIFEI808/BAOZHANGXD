@@ -26,6 +26,20 @@ Thumbs.db
 CMakeFiles/
 cmake-build-*/
 
+# Thesis / paper files (do not upload)
+论文_*.md
+论文_*.docx
+项目文档.md
+结课论文封面.docx
+2023105400440*.pdf
+appendix*.png
+fig*.png
+generate_appendix_images.py
+convert_to_docx.py
+
+# Claude Code
+.claude/
+
 # Misc
 *.bak
 
