@@ -1,0 +1,31 @@
+# IDE
+.vscode/
+.settings/
+.cproject
+.mxproject
+.project
+*.launch
+
+# Build outputs
+/Debug/*
+/build/*
+/Release/*
+MDK-ARM/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CMake generated
+CMakeFiles/
+cmake-build-*/
+
+# Misc
+*.bak
+
